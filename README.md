@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31krulkqk53ypc3bwcz5qx25jfve&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=87002e">
+  </a>
+</p>
 
 <!--
 **Psithurismm/Psithurismm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
